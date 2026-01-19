@@ -1,0 +1,5 @@
+{
+  "name": "StorySpark AI - Kids Story Video Creator",
+  "description": "A platform to generate 5-minute animated kids' stories for YouTube using Gemini AI.",
+  "requestFramePermissions": []
+}
